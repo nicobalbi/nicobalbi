@@ -34,7 +34,7 @@ I'm a Full Stack Developer, Automation Developer and Industrial Engineer. I am p
   <a href="mailto:nicolasbalbi90@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" onclick='window.open("https://www.linkedin.com/in/nicolasbalbi/");return false;'>
+  <a href="https://www.linkedin.com/in/nicolasbalbi/" onclick="window.open(this.href,'_blank');return false;">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </span>
