@@ -1,4 +1,4 @@
-![Banner](https://github.com/nicobalbi/nicobalbi/blob/main/images/banner.jpg)
+![Banner](https://github.com/nicobalbi/nicobalbi/blob/main/images/banner2.jpg)
 <h1 align="center"> Hi, my name is Nicolas! 👋 </h1>
 
 ## :man_technologist: About:
