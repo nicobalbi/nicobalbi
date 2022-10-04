@@ -3,7 +3,7 @@
 
 ## :man_technologist: About:
 
-I'm a Full Stack Developer, Automation Developer and Industrial Engineer. I am passionate about programming, logical thinking, problem solving and continuous learning of new technologies. I've recently graduated from Henry Bootcamp and I'm looking forward to apply all the tech skills I've gained in new promising projects.
+I'm a Full Stack Developer, Automation Developer and Industrial Engineer. I am passionate about programming, logical thinking, problem solving and continuous learning of new technologies. I've recently graduated from Henry Bootcamp and I'm looking forward to apply all the tech skills I've gained in new challenging projects.
 
 ---
 
